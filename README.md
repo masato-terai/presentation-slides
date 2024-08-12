@@ -1,2 +1,9 @@
-This is a temporary repository, and it may be deleted later.
-The website contains presentation slides created by Masato Terai.
+Access to the slides with the following QR code:
+
+![QR Code](qrcode.png)
+
+# Contact Information
+
+Name: [Masato Terai]<br>
+email: [terai.research[at]gmail.com]<br>
+X: [https://x.com/uniquefreshman]<br>
